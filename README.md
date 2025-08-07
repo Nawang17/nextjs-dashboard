@@ -4,4 +4,4 @@ This repository contains the source code for the CMP343 course Next.js dashboard
 
 ## Live Website
 
-[View the live dashboard](https://nextjs-dashboard-xi-three-43.vercel.app/)
+Live Demo - https://nextjs-dashboard-xi-three-43.vercel.app/
