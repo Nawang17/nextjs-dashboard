@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+# CMP343 Next.js Dashboard Tutorial
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This repository contains the source code for the CMP343 course Next.js dashboard tutorial.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Live Website
+
+[View the live dashboard](https://nextjs-dashboard-xi-three-43.vercel.app/)
